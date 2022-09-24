@@ -5,8 +5,6 @@ Hello world !!!
 
 ## Getting Started
 
-TODO
-
 ### Useful commands
 TODO
 
