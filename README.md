@@ -7,5 +7,7 @@ Hello world !!!
 
 TODO
 
+### Useful commands
+
 ## Author
 - HarrisDePerceptron
