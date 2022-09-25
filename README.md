@@ -8,3 +8,5 @@ Hello world !!!
 ### Useful commands
 TODO
 
+## Author
+TODO
