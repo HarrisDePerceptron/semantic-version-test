@@ -8,5 +8,3 @@ Hello world !!!
 ### Useful commands
 TODO
 
-## Author
-- HarrisDePerceptron
